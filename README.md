@@ -3,26 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Selamat Ulang Tahun, Labuloco!</title>
-    <style>
-        body {
-            background-color: #f4f4f4;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-        }
-        h1 {
-            color: #d14f3d;
-        }
-        p {
-            font-size: 20px;
-            color: #333;
-        }
-        .heart {
-            font-size: 50px;
-            color: red;
-        }
-    </style>
 </head>
 <body>
     <h1>Selamat Ulang Tahun, Labuloco!</h1>
